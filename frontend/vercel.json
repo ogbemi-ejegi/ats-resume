@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://ats-resume-osxh.onrender.com/api/$1"
+    }
+  ]
+}
